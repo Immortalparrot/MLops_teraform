@@ -1,0 +1,6 @@
+yc_cloud_id  = "<your-cloud-id>"
+yc_folder_id = "<your-folder-id>"
+yc_token     = "<your-iam-or-oauth-token>"
+bucket_name  = "<your-unique-bucket-name>"
+access_key   = "<your-access-key>"
+secret_key   = "<your-secret-key>" 
